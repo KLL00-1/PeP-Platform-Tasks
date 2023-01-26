@@ -71,54 +71,6 @@
       "endDateTime": "05/26/2023",
       "descriptions": "In this assignment there will be no difficult questions concerning our project.",
       "taskType": "games"
-    },
-    {
-      "taskId": 7,
-      "taskName": "Task 7",
-      "taskStatus": "active",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeCZCWxPigXrnvYYvvJkmsfhRspv91TVUNToe6SoqGJP1?_gl=1*1o73os1*_ga*MTU4NTk1MDA1OS4xNjY4MDEzNjQz*_ga_5RMPXG14TE*MTY3NDczMjY1NS45LjEuMTY3NDczMjc0NS41OC4wLjA.",
-      "rewards": 100,
-      "taskDifficulty": "easy",
-      "startDateTime": "02/10/2023",
-      "endDateTime": "06/27/2023",
-      "descriptions": "In this assignment there will be no difficult questions concerning our project.",
-      "taskType": "games"
-    },
-    {
-      "taskId": 8,
-      "taskName": "Task 8",
-      "taskStatus": "active",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeCZCWxPigXrnvYYvvJkmsfhRspv91TVUNToe6SoqGJP1?_gl=1*1o73os1*_ga*MTU4NTk1MDA1OS4xNjY4MDEzNjQz*_ga_5RMPXG14TE*MTY3NDczMjY1NS45LjEuMTY3NDczMjc0NS41OC4wLjA.",
-      "rewards": 100,
-      "taskDifficulty": "easy",
-      "startDateTime": "03/10/2023",
-      "endDateTime": "06/27/2023",
-      "descriptions": "In this assignment there will be no difficult questions concerning our project.",
-      "taskType": "games"
-    },
-    {
-      "taskId": 9,
-      "taskName": "Task 9",
-      "taskStatus": "active",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeCZCWxPigXrnvYYvvJkmsfhRspv91TVUNToe6SoqGJP1?_gl=1*1o73os1*_ga*MTU4NTk1MDA1OS4xNjY4MDEzNjQz*_ga_5RMPXG14TE*MTY3NDczMjY1NS45LjEuMTY3NDczMjc0NS41OC4wLjA.",
-      "rewards": 100,
-      "taskDifficulty": "easy",
-      "startDateTime": "04/10/2023",
-      "endDateTime": "06/27/2023",
-      "descriptions": "In this assignment there will be no difficult questions concerning our project.",
-      "taskType": "games"
-    },
-    {
-      "taskId": 10,
-      "taskName": "Task 10",
-      "taskStatus": "active",
-      "image": "https://gateway.pinata.cloud/ipfs/QmeCZCWxPigXrnvYYvvJkmsfhRspv91TVUNToe6SoqGJP1?_gl=1*1o73os1*_ga*MTU4NTk1MDA1OS4xNjY4MDEzNjQz*_ga_5RMPXG14TE*MTY3NDczMjY1NS45LjEuMTY3NDczMjc0NS41OC4wLjA.",
-      "rewards": 100,
-      "taskDifficulty": "easy",
-      "startDateTime": "05/10/2023",
-      "endDateTime": "06/27/2023",
-      "descriptions": "In this assignment there will be no difficult questions concerning our project.",
-      "taskType": "games"
     }
   ]
 }
