@@ -1,0 +1,109 @@
+{
+  "passingCondition": 80,
+  "banner": "https://gateway.pinata.cloud/ipfs/QmNcPkbwWgjyhVuseMKMSGvTg2zLQD5Xur5ajSpsgtSYfW?_gl=1*1tnp1y9*_ga*MTU4NTk1MDA1OS4xNjY4MDEzNjQz*_ga_5RMPXG14TE*MTY3NTA3NTQ2OC4xMS4xLjE2NzUwNzU0ODEuNDcuMC4w",
+  "questions": [
+    {
+      "id": 0,
+      "question": "Национальная валюта Турции",
+      "variants": ["лира", "юань", "рупия"],
+      "correct": "лира",
+      "result": false
+    },
+    {
+      "id": 1,
+      "question": "Кто открыл Америку",
+      "variants": [
+        "Америго Веспуччи",
+        "Фердинанд Магеллан",
+        "Христофор Колумб"
+      ],
+      "correct": "Христофор Колумб",
+      "result": false
+    },
+    {
+      "id": 2,
+      "question": "На какой территории было создано Древнерусское государство",
+      "variants": ["США", "Китай", "Украина"],
+      "correct": "Украина",
+      "result": false
+    },
+    {
+      "id": 3,
+      "question": "Кто изобрел радио",
+      "variants": ["Александр Попов", "Никола Тесла", "Альберт Энштейн"],
+      "correct": "Александр Попов",
+      "result": false
+    },
+    {
+      "id": 4,
+      "question": "Самый северный город России",
+      "variants": ["Норильск", "Магадан", "Певек", "Архангельск"],
+      "correct": "Певек",
+      "result": false
+    },
+    {
+      "id": 5,
+      "question": "Высота Останкенской телебашни",
+      "variants": ["540 метров", "350 метров", "420 метров"],
+      "correct": "540 метров",
+      "result": false
+    },
+    {
+      "id": 6,
+      "question": "Рекорд скорости на велосипеде",
+      "variants": ["165км/ч", "223км/ч", "97км/ч"],
+      "correct": "223км/ч",
+      "result": false
+    },
+    {
+      "id": 7,
+      "question": "В каком году появился первый компьютер",
+      "variants": ["1941г", "1983г", "1991г"],
+      "correct": "1941г",
+      "result": false
+    },
+    {
+      "id": 8,
+      "question": "Как звали первую жену Наполеона",
+      "variants": ["Амели Бонапарт", "Жаннет Бельмандо", "Жозефина Богарне"],
+      "correct": "Жозефина Богарне",
+      "result": false
+    },
+    {
+      "id": 9,
+      "question": "Рекорд дальности полета на планере",
+      "variants": ["1239км", "3008км", "548км"],
+      "correct": "3008км",
+      "result": false
+    },
+    {
+      "id": 10,
+      "question": "Что такое неон",
+      "variants": [
+        "тип свечения",
+        "химический элемент",
+        "характеристика микропроцессора"
+      ],
+      "correct": "химический элемент",
+      "result": false
+    },
+    {
+      "id": 11,
+      "question": "Что из перечисленного не является функцией js",
+      "variants": [
+        "const elements = {}",
+        "()=>{}",
+        "let changeElement = () => {}"
+      ],
+      "correct": "const elements = {}",
+      "result": false
+    },
+    {
+      "id": 12,
+      "question": "Кто такой Жак Ив Кусто",
+      "variants": ["ученый", "киноактер", "музыкальный продюсер"],
+      "correct": "ученый",
+      "result": false
+    }
+  ]
+}
